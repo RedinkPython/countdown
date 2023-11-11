@@ -1,3 +1,5 @@
+Made originally with blocks but i changed the code with Python 
+.py is Python and .ts is block
 
 > Open this page at [https://redinkpython.github.io/countdown/](https://redinkpython.github.io/countdown/)
 
